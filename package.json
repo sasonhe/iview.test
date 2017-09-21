@@ -20,5 +20,8 @@
   "dependencies": {
     "iview": "^2.3.2",
     "vue": "^2.4.4"
+  },
+  "devDependencies": {
+    "vue-video": "^0.1.7"
   }
 }
