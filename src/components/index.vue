@@ -31,6 +31,7 @@
         </Menu>
         <br>
         <p>切换主题</p>
+        //双向主题绑定
         <RadioGroup v-model="theme1">
             <Radio label="light"></Radio>
             <Radio label="dark"></Radio>
